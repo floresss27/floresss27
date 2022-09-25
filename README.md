@@ -1,6 +1,6 @@
 ## Olá eu me chamo Gustavo Flores
 - Trabalho atualmente na área de Devops
-- Tenho muita vontade de explorar e aprender novas tecnologias e áreas, como por exemplo front, back, mobile
+- Tenho muita vontade de explorar e aprender novas tecnologias.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=floresss27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
